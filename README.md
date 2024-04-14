@@ -1,5 +1,7 @@
 
-[https://medium.com/@learn-simplified/cognita-a-truly-unified-rag-framework-part-1-08eb410eec51](https://medium.com/@learn-simplified/linux-of-ai-why-open-interpreter-poised-to-completely-disrupt-how-we-interact-with-technology-099cb35f0625)
+
+https://medium.com/@learn-simplified/linux-of-ai-why-open-interpreter-poised-to-completely-disrupt-how-we-interact-with-technology-099cb35f0625
+
 
 **Install Open Interpreter**
 ----------------------------
