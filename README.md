@@ -1,3 +1,6 @@
+
+https://medium.com/@learn-simplified/cognita-a-truly-unified-rag-framework-part-1-08eb410eec51
+
 **Install Open Interpreter**
 ----------------------------
 
